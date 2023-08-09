@@ -1,2 +1,2 @@
 # ecommerce-chandan
-frontened project
+frontened project by chandan mondal
